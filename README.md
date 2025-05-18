@@ -20,16 +20,16 @@ A static clone of the Amazon homepage built using **pure HTML and CSS**. This pr
 
 * **HTML5**
 * **CSS3**
-* **Google Fonts** (optional)
-* **Font Awesome** (optional)
+* **Google Fonts** 
+* **Font Awesome** 
 
 ---
 
 ## 📸 Screenshots
 
-![Home Page](../HomePage.png)
-![Shopping Options](../options.png)
-![Website Footer](../footer.png)
+![Home Page](./HomePage.png)
+![Shopping Options](./options.png)
+![Website Footer](./footer.png)
 
 ---
 
