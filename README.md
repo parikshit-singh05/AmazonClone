@@ -27,9 +27,9 @@ A static clone of the Amazon homepage built using **pure HTML and CSS**. This pr
 
 ## 📸 Screenshots
 
-![Home Page](/images/HomePage.png)
-![Shopping Options](images/options.png)
-![Website Footer](images/footer.png)
+![Home Page](/images/HomePage.png)<br><br>
+![Shopping Options](images/options.png)<br><br>
+![Website Footer](images/footer.png)<br>
 
 ---
 
